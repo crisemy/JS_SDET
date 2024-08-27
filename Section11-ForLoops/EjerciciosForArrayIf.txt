@@ -1,0 +1,5 @@
+1. Suma de números pares: Crea un programa que sume todos los números pares del 1 al 10
+2. Contador de vocales: Escribe un programa que cuente cuántas vocales hay en una frase ingresada por el usuario.
+3. Buscar en un array: Dado un array de números, crea un programa que encuentre el número más grande en el array.
+4. Multiplicación de elementos: Crea un programa que multiplique todos los elementos de un array dado por un número ingresado por el usuario.
+5. Filtrar números pares: Dado un array de números, crea un programa que filtre solo los números pares y los imprima en la consola.
